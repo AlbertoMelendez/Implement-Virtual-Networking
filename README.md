@@ -23,9 +23,21 @@ Export Template
 
 Task 2: Create a virtual network and subnets using a template.
 
+Editing Template and Parameters JSON files
+
+<img width="1854" height="1048" alt="image" src="https://github.com/user-attachments/assets/55e78c1f-4a89-49d1-90d1-d175f28fd08e" />
+
+<img width="979" height="1100" alt="image" src="https://github.com/user-attachments/assets/6bbf8094-b371-44b6-954f-17d4fd8d994f" />
+
+<img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/9e0f38dc-01f2-4723-8b59-b05c297c3ae2" />
+
+<img width="947" height="1068" alt="image" src="https://github.com/user-attachments/assets/fdc4fd0a-3e47-4b63-ba45-5a6793245c60" />
 
 
 
 Task 3: Create and configure communication between an Application Security Group and a Network Security Group.
+
+
+
 
 Task 4: Configure public and private Azure DNS zones.
